@@ -25,6 +25,7 @@
                 android:id="@+id/price"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
                 android:text="Price"
                 android:textSize="18sp" />
 
@@ -35,7 +36,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Total"
-            android:textSize="24sp"/>
+            android:textSize="24sp" />
 
     </TableLayout>
 
